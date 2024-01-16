@@ -1,2 +1,2 @@
-# Directory_press
+# frequencyZ_use
 3年生創成課題で作成/利用したプログラム
