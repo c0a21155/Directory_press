@@ -26,3 +26,9 @@ ken@MyComputer:~/mkprogram$ python3 frequency_use.py
 2023後期        35.0
 ken@MyComputer:~/mkprogram$
 ```
+ただし, プログラムの23～25行目でパスを指定している. そのため, このプログラムを利用する際はtarget_directory,cvs_file,csv_fileを各自任意のパスに変更する必要がある.
+# csvファイルの詳細
+プログラムの24行目でcount.csv, 25行目で実験.csvを指定している.
+ここで各csvファイルを説明する.
+- count.csv
+count.csvは以下のようになっている.
