@@ -26,9 +26,20 @@ ken@MyComputer:~/mkprogram$ python3 frequency_use.py
 2023後期        35.0
 ken@MyComputer:~/mkprogram$
 ```
+print関数による出力から, 各ディレクトリの, 作成されてからの経過日数, 1日当たりのアクセス回数, 1日当たりの更新回数, 使用頻度[回/日]をそれぞれ確認できる. 
 ただし, プログラムの23～25行目でパスを指定している. そのため, このプログラムを利用する際はtarget_directory,cvs_file,csv_fileを各自任意のパスに変更する必要がある.
 # csvファイルの詳細
 プログラムの24行目でcount.csv, 25行目で実験.csvを指定している.
 ここで各csvファイルを説明する.
 - count.csv
 count.csvは以下のようになっている.
+2021前期	5	0
+2021後期	10	5
+2022前期	15	0
+2022後期	20	5
+2023前期	15	10
+2023後期	20	15
+![image](https://github.com/c0a21155/frequency_use/assets/85731547/d8f77750-26a4-459a-b11e-823bd61136f3)
+
+
+
