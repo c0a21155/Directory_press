@@ -42,7 +42,8 @@ frequency_use.pyはこれらの要素を読み込む.
 - 実験.csv
 実験.csvは以下のようになっている.
 
-![image](https://github.com/c0a21155/frequency_use/assets/85731547/f49ae6b1-78c1-4457-a067-e4b769b55556)
+![image](https://github.com/c0a21155/frequency_use/assets/85731547/7b865aa7-c0c8-44b6-a3ac-f88f1488c511)
+
 
 実験.csvにはfrequency_use.pyで出力されたディレクトリ名, 使用頻度が新たに記入される. 
 これにより, ディレクトリ名と計算結果のみを抽出し, 一目でプログラム実行結果を確認できる.
