@@ -32,7 +32,7 @@ print関数による出力から, 各ディレクトリの, 作成されてか�
 プログラムの24行目でcount.csv, 25行目で実験.csvを指定している.
 ここで各csvファイルを説明する.
 - count.csv
-count.csvは以下のようになっている.
+count.csvは以下のようになっている. \\
 ![image](https://github.com/c0a21155/frequency_use/assets/85731547/d8f77750-26a4-459a-b11e-823bd61136f3)
 
 
